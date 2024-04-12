@@ -1,2 +1,2 @@
-# thunderChickens
-Thunderbird Chickens
+# Thunderbird Chickens
+
